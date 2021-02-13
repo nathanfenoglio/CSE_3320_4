@@ -45,7 +45,7 @@ unexport GREP_OPTIONS
 # descending is started. They are now explicitly listed as the
 # prepare rule.
 
-# Beautify output flam
+# Beautify output flim to the flam
 # ---------------------------------------------------------------------------
 #
 # Normally, we echo the whole command before executing it. By making
